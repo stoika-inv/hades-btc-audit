@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-20",
+  "git_commit": "54d5382edff34f23aad96376320db558f1f18a4c",
+  "frozen_files": {
+    "v3_strategy.py": "81d5015ff6bf86a937d69e453fd3e80ba4bfc4cbc0eb40275f88f11eeea70b4f",
+    "signals.py": "2d872db451553c50661a2440c9a4ffe9232a511b030a04014f3240acfc45815c",
+    "backtest.py": "c04bf1909bd6e6adb8ab36bd6a1e0c81e6db606c1422c5d1fb9014712eeebf6d",
+    "indicators.py": "31a1de81683203aa0cd1ea54731bcce61ec876a1e0825e4c28de4f3cea011d35",
+    "last_battle.py": "9f4adec6e7d3f1288f284bfd1357552d7d59b3a77b948fba12917c21fccc5723",
+    "test_scalein.py": "5d23d61dc396d4c44267672c4c0192b46872e521ed6b6c91a8d21fdfd7536be7"
+  }
+}
