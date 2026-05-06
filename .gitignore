@@ -5,3 +5,18 @@ auto_review_*.md
 weekly-review/
 *.tmp
 *.bak
+# Defense in depth — never publish secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+secrets.json
+secrets.yaml
+.aws/
+config.local.*
+*.tmp
+*.bak
+.DS_Store
+
