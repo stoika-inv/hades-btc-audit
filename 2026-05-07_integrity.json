@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "git_commit": "5d719ec66a0629d1a4ee9a5aecc6bc45103263f4",
+  "git_commit": "793eb042a9d6088a442bae3a099e3d44170670fe",
   "frozen_files": {
     "v3_strategy.py": "81d5015ff6bf86a937d69e453fd3e80ba4bfc4cbc0eb40275f88f11eeea70b4f",
     "signals.py": "2d872db451553c50661a2440c9a4ffe9232a511b030a04014f3240acfc45815c",
